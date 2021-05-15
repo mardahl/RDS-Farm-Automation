@@ -4,7 +4,7 @@
 
         .DESCRIPTION
         Adds an RD Gateway CAP policy, limiting access to specific computers and users.
-        The script tries to make nice output, instead of hammering your with NETSH errors.
+        The script tries to make nice output, instead of hammering you with NETSH errors.
         For debugging you would look at the data contained withing each run of the $NETSHResult variable.
 
         .PARAMETER Name
