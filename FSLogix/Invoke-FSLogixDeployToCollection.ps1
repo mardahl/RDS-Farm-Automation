@@ -20,7 +20,7 @@
     License       : MIT (Leave author credits)
     
 .EXAMPLE
-    Execute script from elevated state on the Session Broker (Efter modifyring the script variables to suit your needs).
+    Execute script from elevated state on the Session Broker (After modifying the script variables to suit your needs).
     .\Invoke-FSLogixDeployToCollection.ps1
     
 #>
