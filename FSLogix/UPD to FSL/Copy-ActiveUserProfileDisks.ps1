@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-  Copies UPD files that ave active users in AD and have been accessed within an adjustable timeframe.
+  Copies UPD files that have active users in AD and have been accessed within an adjustable timeframe.
 .DESCRIPTION
 	This script will take a source path containing User Profile Disks and copy them to the destination path. 
 	It will filter the items to copy using Active Directory lookup and a timeframe evaluation.
