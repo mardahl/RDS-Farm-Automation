@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-  Deploy FSLogix software and acces restrictins to all Session hosts in a collection automatically
+  Deploy FSLogix software and access restrictins to all Session hosts in a collection automatically
 .DESCRIPTION
   This script will execute on each Session host in a colection and download the latest FSLogix package from the internet.
 	After installation it will configure which AD Group is enabled for FSLogix (usually a group that allso has access to the session colection it self).
